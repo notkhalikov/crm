@@ -1618,5 +1618,23 @@
     "notes": "",
     "tasks": [],
     "messages": []
+  },
+  {
+    "id": 1773857645455,
+    "fullName": "Юлия Кулакова",
+    "company": "Notamedia",
+    "telegram": "@Kulakova_ova",
+    "phone": "",
+    "email": "",
+    "amount": 0,
+    "source": "habr",
+    "priority": "cold",
+    "format": "",
+    "stage": "outreach_sent",
+    "created": "18.03.2026",
+    "stageChangedAt": "18.03.2026",
+    "notes": "",
+    "tasks": [],
+    "messages": []
   }
 ]
