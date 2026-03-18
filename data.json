@@ -1978,5 +1978,23 @@
     "notes": "",
     "tasks": [],
     "messages": []
+  },
+  {
+    "id": 1773859414013,
+    "fullName": "Катерина Морозова",
+    "company": "ФИНФОРТ",
+    "telegram": "@katerinamoros",
+    "phone": "",
+    "email": "",
+    "amount": 0,
+    "source": "habr",
+    "priority": "cold",
+    "format": "",
+    "stage": "outreach_sent",
+    "created": "18.03.2026",
+    "stageChangedAt": "18.03.2026",
+    "notes": "",
+    "tasks": [],
+    "messages": []
   }
 ]
