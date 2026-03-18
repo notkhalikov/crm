@@ -1576,7 +1576,7 @@
     "source": "habr",
     "priority": "cold",
     "format": "",
-    "stage": "meeting_scheduled",
+    "stage": "outreach_sent",
     "created": "18.03.2026",
     "stageChangedAt": "18.03.2026",
     "notes": "",
