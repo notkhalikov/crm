@@ -1798,5 +1798,23 @@
     "notes": "",
     "tasks": [],
     "messages": []
+  },
+  {
+    "id": 1773858665362,
+    "fullName": "Наталья Крешихина",
+    "company": "АСКОН",
+    "telegram": "@Natali62hr",
+    "phone": "",
+    "email": "",
+    "amount": 0,
+    "source": "habr",
+    "priority": "cold",
+    "format": "",
+    "stage": "outreach_sent",
+    "created": "18.03.2026",
+    "stageChangedAt": "18.03.2026",
+    "notes": "",
+    "tasks": [],
+    "messages": []
   }
 ]
