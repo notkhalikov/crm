@@ -1762,5 +1762,23 @@
     "notes": "",
     "tasks": [],
     "messages": []
+  },
+  {
+    "id": 1773858377804,
+    "fullName": "Михаил Меднов",
+    "company": "Кускейп",
+    "telegram": "@Night_Without_Sleep",
+    "phone": "",
+    "email": "",
+    "amount": 0,
+    "source": "habr",
+    "priority": "cold",
+    "format": "",
+    "stage": "outreach_sent",
+    "created": "18.03.2026",
+    "stageChangedAt": "18.03.2026",
+    "notes": "",
+    "tasks": [],
+    "messages": []
   }
 ]
