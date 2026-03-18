@@ -1708,5 +1708,23 @@
     "notes": "",
     "tasks": [],
     "messages": []
+  },
+  {
+    "id": 1773857926069,
+    "fullName": "Tatiana Trofimova",
+    "company": "ITQ Group",
+    "telegram": "@Tatiana_Igorevnaa",
+    "phone": "",
+    "email": "",
+    "amount": 0,
+    "source": "habr",
+    "priority": "cold",
+    "format": "",
+    "stage": "outreach_sent",
+    "created": "18.03.2026",
+    "stageChangedAt": "18.03.2026",
+    "notes": "",
+    "tasks": [],
+    "messages": []
   }
 ]
