@@ -2050,5 +2050,23 @@
     "notes": "",
     "tasks": [],
     "messages": []
+  },
+  {
+    "id": 1773929338512,
+    "fullName": "Юлия Базарова",
+    "company": ".redev",
+    "telegram": "@callmejui",
+    "phone": "",
+    "email": "",
+    "amount": 0,
+    "source": "habr",
+    "priority": "cold",
+    "format": "",
+    "stage": "outreach_sent",
+    "created": "19.03.2026",
+    "stageChangedAt": "19.03.2026",
+    "notes": "",
+    "tasks": [],
+    "messages": []
   }
 ]
