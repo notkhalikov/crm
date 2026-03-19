@@ -2014,5 +2014,23 @@
     "notes": "",
     "tasks": [],
     "messages": []
+  },
+  {
+    "id": 1773929085599,
+    "fullName": "Вера Герасимова",
+    "company": "СовкомТех",
+    "telegram": "@Gerasimova_Vera",
+    "phone": "",
+    "email": "",
+    "amount": 0,
+    "source": "habr",
+    "priority": "cold",
+    "format": "",
+    "stage": "outreach_sent",
+    "created": "19.03.2026",
+    "stageChangedAt": "19.03.2026",
+    "notes": "",
+    "tasks": [],
+    "messages": []
   }
 ]
