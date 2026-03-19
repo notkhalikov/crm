@@ -2008,9 +2008,9 @@
     "source": "habr",
     "priority": "cold",
     "format": "",
-    "stage": "outreach_sent",
+    "stage": "client_rejected",
     "created": "18.03.2026",
-    "stageChangedAt": "18.03.2026",
+    "stageChangedAt": "19.03.2026",
     "notes": "",
     "tasks": [],
     "messages": []
