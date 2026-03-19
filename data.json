@@ -2032,5 +2032,23 @@
     "notes": "",
     "tasks": [],
     "messages": []
+  },
+  {
+    "id": 1773929240431,
+    "fullName": "Анна Филиппова",
+    "company": "Видеомакс",
+    "telegram": "@mil_soneta",
+    "phone": "",
+    "email": "",
+    "amount": 0,
+    "source": "habr",
+    "priority": "cold",
+    "format": "",
+    "stage": "outreach_sent",
+    "created": "19.03.2026",
+    "stageChangedAt": "19.03.2026",
+    "notes": "",
+    "tasks": [],
+    "messages": []
   }
 ]
