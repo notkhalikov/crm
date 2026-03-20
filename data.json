@@ -2212,5 +2212,23 @@
     "notes": "",
     "tasks": [],
     "messages": []
+  },
+  {
+    "id": 1774021131860,
+    "fullName": "Евгений Соколов",
+    "company": "А7",
+    "telegram": "@Yevgeniy_87",
+    "phone": "",
+    "email": "",
+    "amount": 0,
+    "source": "habr",
+    "priority": "cold",
+    "format": "",
+    "stage": "outreach_sent",
+    "created": "20.03.2026",
+    "stageChangedAt": "20.03.2026",
+    "notes": "",
+    "tasks": [],
+    "messages": []
   }
 ]
