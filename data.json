@@ -2302,5 +2302,23 @@
     "notes": "",
     "tasks": [],
     "messages": []
+  },
+  {
+    "id": 1774025978065,
+    "fullName": "Антон Алферьев",
+    "company": "Платформа",
+    "telegram": "@Anton_Alferev",
+    "phone": "",
+    "email": "",
+    "amount": 0,
+    "source": "habr",
+    "priority": "cold",
+    "format": "",
+    "stage": "outreach_sent",
+    "created": "20.03.2026",
+    "stageChangedAt": "20.03.2026",
+    "notes": "",
+    "tasks": [],
+    "messages": []
   }
 ]
