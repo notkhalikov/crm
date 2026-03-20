@@ -2176,5 +2176,23 @@
     "notes": "",
     "tasks": [],
     "messages": []
+  },
+  {
+    "id": 1774020983681,
+    "fullName": "Анна Оганян",
+    "company": "ООО \"ИТТЕХ\"",
+    "telegram": "@Anna_OL10",
+    "phone": "",
+    "email": "",
+    "amount": 0,
+    "source": "habr",
+    "priority": "cold",
+    "format": "",
+    "stage": "outreach_sent",
+    "created": "20.03.2026",
+    "stageChangedAt": "20.03.2026",
+    "notes": "",
+    "tasks": [],
+    "messages": []
   }
 ]
