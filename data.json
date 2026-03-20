@@ -2320,5 +2320,23 @@
     "notes": "",
     "tasks": [],
     "messages": []
+  },
+  {
+    "id": 1774026437382,
+    "fullName": "Ирина Осипова",
+    "company": "Unigine",
+    "telegram": "@irina_osipova2022",
+    "phone": "",
+    "email": "",
+    "amount": 0,
+    "source": "habr",
+    "priority": "cold",
+    "format": "",
+    "stage": "outreach_sent",
+    "created": "20.03.2026",
+    "stageChangedAt": "20.03.2026",
+    "notes": "",
+    "tasks": [],
+    "messages": []
   }
 ]
