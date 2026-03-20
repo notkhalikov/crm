@@ -2284,5 +2284,23 @@
     "notes": "",
     "tasks": [],
     "messages": []
+  },
+  {
+    "id": 1774025938267,
+    "fullName": "Денис Корчашкин",
+    "company": "ЭйАй Тех",
+    "telegram": "@ai_tech_llc",
+    "phone": "",
+    "email": "",
+    "amount": 0,
+    "source": "habr",
+    "priority": "cold",
+    "format": "",
+    "stage": "outreach_sent",
+    "created": "20.03.2026",
+    "stageChangedAt": "20.03.2026",
+    "notes": "",
+    "tasks": [],
+    "messages": []
   }
 ]
