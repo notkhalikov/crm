@@ -590,7 +590,7 @@
     "email": "",
     "amount": 0,
     "source": "habr",
-    "priority": "warm",
+    "priority": "hot",
     "format": "online",
     "stage": "meeting_scheduled",
     "created": "25.02.2026",
