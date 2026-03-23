@@ -592,9 +592,9 @@
     "source": "habr",
     "priority": "warm",
     "format": "online",
-    "stage": "proposal_sent",
+    "stage": "meeting_scheduled",
     "created": "25.02.2026",
-    "stageChangedAt": "25.02.2026",
+    "stageChangedAt": "23.03.2026",
     "notes": "",
     "tasks": [],
     "messages": []
