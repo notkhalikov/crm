@@ -1468,9 +1468,9 @@
     "source": "habr",
     "priority": "hot",
     "format": "",
-    "stage": "dialog",
+    "stage": "meeting_scheduled",
     "created": "25.02.2026",
-    "stageChangedAt": "18.03.2026",
+    "stageChangedAt": "23.03.2026",
     "notes": "",
     "tasks": [],
     "messages": []
